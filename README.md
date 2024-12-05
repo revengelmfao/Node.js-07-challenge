@@ -5,6 +5,11 @@
 ## Description
 
 Challenge code for the 7th challenge of this course
+The purpose of this tool is to help users generate easy readme.md files
+I learned to use Node.js to create files, write files, and associate external files with other JavaScript files using the commonjs module.
+
+## Installation
+Install node and required javascript files to work the command-line application.
 
 ## Table of Contents
 
@@ -17,21 +22,18 @@ Challenge code for the 7th challenge of this course
 
 * [Questions](#questions)
 
-## Installation
-
-na
 
 ## Usage
 
-used for generating easy read me md files
+Used for generating easy read me md files
 
 ## Contributing
 
-Brad
+Bradley Santiago
 
 ## Tests
 
-run node js
+n/a
 
 ## License
 
