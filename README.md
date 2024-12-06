@@ -9,7 +9,7 @@ The purpose of this tool is to help users generate easy readme.md files
 I learned to use Node.js to create files, write files, and associate external files with other JavaScript files using the commonjs module.
 
 ## Installation
-Install node and required javascript files to work the command-line application.
+Install node and required javascript files to work the command line application built using the dependency inquirer.
 
 ## Table of Contents
 
